@@ -1,0 +1,12 @@
+{
+  "nextGame": {
+    "scheduledTime": "2026-05-31T19:00:00Z",
+    "tableId": "tbl_8f3a1c9e",
+    "tableLink": "https://app.block52.xyz/table/tbl_8f3a1c9e",
+    "googleMeetsLink": "https://meet.google.com/abc-defg-hij",
+    "blinds": {
+      "smallBlind": 25,
+      "bigBlind": 50
+    }
+  }
+}
